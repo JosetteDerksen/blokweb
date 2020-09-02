@@ -70,15 +70,11 @@ De website die ik wil gaan realiseren is van: https://www.benjerry.nl/
 
 **Screenshot(s):**
 
-![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
-
 (images/Ben&JerrysHome.jpg)
 (images/Ben&JerrysLaatsteNieuws.jpg)
 (images/Ben&JerrysKoopNu.jpg)
 
 **Breakdown-schets(en):**
-
-![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
 
 (images/Breakdownschets1.svg)
 
