@@ -30,7 +30,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+### Stand van zaken
+
+- Traag op gang gekomen. Nog bijna nergens.-
 
 
 

@@ -3,3 +3,55 @@
   box-sizing:border-box;  
 }
 
+html {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  box-sizing: border-box;
+
+}
+
+nav {
+  background: #003e55;
+  height: 60px;
+  max-width: 767px;
+  width: 100%;
+}
+
+img {
+  width: 150.84px;
+  margin: 5px 0;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+.hoofdtekst {
+  float: right;
+  display: inline-table;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #ffffff;
+  width: 40px;
+}
+
+.hoofdfoto {
+  width: 100%;
+}
+
+h1 {
+  font-family: "chunk_rethunkregular","Arial Black",Arial,sans-serif;
+  text-align: center;
+  font-size: 23px;
+  line-height: 1.25;
+  margin-bottom: 12px;
+  color: #191919;
+  position: relative;
+  display: block;
+}
