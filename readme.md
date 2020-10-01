@@ -32,7 +32,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
-- Traag op gang gekomen. Nog bijna nergens.-
+- Traag op gang gekomen.-
 
 
 
