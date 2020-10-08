@@ -10,8 +10,7 @@ html {
 * {
   margin: 0;
   padding: 0;
-  line-height: 1;
-  box-sizing: border-box;
+  line-height: 1,25;
 
 }
 
@@ -54,4 +53,40 @@ h1 {
   color: #191919;
   position: relative;
   display: block;
+}
+
+p {
+  text-align: center;
+  font-size: 16px;
+  margin-bottom: 12px;
+}
+
+input {
+  display: inline-block;
+  text-align: start;
+  font-size: 13,33px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 12px;
+  border-color: rgb(118, 118, 118);
+  border: 5px;
+  border-style: inset;
+  border-color: -internal-light-dark(rgb(118, 118, 118), rgb(195, 195, 195));
+  width: 100%;
+}
+
+.h2style {
+  display: block;
+  margin-top: 12px;
+  font-size: 20px;
+}
+
+ul.smaken {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+li.smaken {
+  flex-basis: 100%;
+
 }

@@ -24,7 +24,15 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+-Eindelijk iets verder gekomen, maar nog steeds erg traag en aan het uitstellen, omdat ik tegen de code opzie en dit als laatste van al mijn vakken steeds ga doen. Ik frustreer mezelf erg als iets niet snel lukt en dat is erg het geval met code. Daarnaast loop ik met meerdere vakken achter omdat ik moeite heb motivatie en energie te vinden om met alles te beginnen, misschien komt het door Corona of het weer, maar ik heb moeite met opgang komen en ook het dan vast te houden.-
+
+**Screenshot(s):**
+
+(./images/screenshots/voortgang3.pgn)
+(./images/screenshots/voortgang3.1..pgn)
+
+### Verslag van meeting
+
 
 
 
@@ -32,7 +40,14 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
-- Traag op gang gekomen.-
+- Traag op gang gekomen. Nog bijna nergens.-
+
+### Verslag van meeting
+
+- Heel erg hetzelfde als voortgang 1, alleen hadden we nu een student-assistent die ging kijken naar ons werk.
+Ik was nog niet veel verder gekomen behalve wat tekst en wat kleurtjes erin te zetten.
+
+Volgens de student-assistent kan ik het nog inhalen als ik nu begin. Volgens haar was het handig om eerst alle concent op webstite te zetten en deze dan te gaan beperken in CSS. 
 
 
 
@@ -52,7 +67,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+-We hedden besproken dat ik het nog in kan halen als ik nu begin.-
 
 
 
