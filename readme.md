@@ -34,8 +34,8 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-(./images/screenshots/voortgang3.pgn)
-(./images/screenshots/voortgang3.1..pgn)
+![screenshot](images/screenshots/voortgang3.pgn)
+![schreenshot](images/screenshots/voortgang3.1..pgn)
 
 ### Verslag van meeting
 
@@ -95,13 +95,13 @@ De website die ik wil gaan realiseren is van: https://www.benjerry.nl/
 
 ![screenshot(s) die een goed beeld geven van de website die je gaat maken](images/dummy-image.svg)
 
-(images/Ben&JerrysHome.jpg)
-(images/Ben&JerrysLaatsteNieuws.jpg)
-(images/Ben&JerrysKoopNu.jpg)
+![screenshot](images/Ben&JerrysHome.jpg)
+![screenshot](images/Ben&JerrysLaatsteNieuws.jpg)
+![screenshot](images/Ben&JerrysKoopNu.jpg)
 
 **Breakdown-schets(en):**
 
 ![-voorlopige breakdownschets(en) van een of beide pagina's van de site die je gaat maken-](images/dummy-image.svg)
 
-(images/Breakdownschets1.svg)
+![schets](images/Breakdownschets1.svg)
 
