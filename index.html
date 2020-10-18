@@ -10,100 +10,183 @@
 	<link href="styles/style.css" rel="stylesheet">
 </head>
 
-<header>
-		<nav class="hoofdnavigatie">
-			<a class="hoofdmenu">
+<header>		
+	<script src="scripts/script.js"></script>
+		<nav role="navigation" class="hoofdnavigatie">
+			<a class="hoofdmenu" href="benjerrys.nl">
 				<img alt="logoBen&Jerrys" src="./images/logoBen&Jerrys.png">
 			</a>
 			<a class="hoofdtekst">
 				KOOP NU
-			</a>'
-			<a class="hoofdtekst">MENU</a>
+			</a>
+			<section class="topnav">
+				<section class="container">
+					<div class="streep1"></div>
+					<div class="streep2"></div>
+					<div class="streep3"></div>
+				</section>						
+				<section>
+					<ul id="links">
+						<li>
+							<a href="smaken">Smaken</a>
+						</li>
+						<li>
+							<a href="Koop Nu">Koop Nu</a>
+						</li>
+						<li>	
+							<a href="Waarden">Waarden</a>
+						</li>
+						<li>
+							<a href="Over Ons">Over Ons</a>
+						</li>
+						<li>
+							<a href="Wat is nieuw">Wat is nieuw</a>
+						</li>
+						<li>	
+							<a href="Rotterdam Bezorgen">Rotterdam bezorgen</a>
+						</li>
+					</ul>
+					<a href="javascript:void(0);" class="menu" onclick="myFunction">
+						<i class="streepjes"></i>
+					</a>
+				</section>
+			</section>
 		</nav>
 </header>
 
 <body>	
-	<script src="scripts/script.js"></script>
-	<img src="./images/allesmaken.jpg" alt="hoofdfotosmaken" class="hoofdfoto">
-	<h1> Smaken </h1>
-	<p>Er zijn zo veel manieren om te genieten van je Ben & Jerry’s ijs. We hebben een brede range met onder andere de award-winning Cookie Dough, en nog veel meer fairrukkelijke smaken. Zo is er voor ieder wat wils. Ga je gang, grab a spoon and start diggin'</p>
+	<main>
 
-	<input type="text" name="ijssmaken zoeken" class="zoeken" placeholder="ijssmaken zoeken">
+		<article class="tussenruimte"></article>
 
-	<h2 class="h2style">
-		Onze smaken:
-	</h2>
+		<article class="content">
+			<img src="./images/Flavors_desktop_nl.jpg" alt="hoofdfotosmaken" class="hoofdfoto">
+			<h1> Smaken </h1>
+			<p>Er zijn zo veel manieren om te genieten van je Ben & Jerry’s ijs. We hebben een brede range met onder andere de award-winning Cookie Dough, en nog veel meer fairrukkelijke smaken. Zo is er voor ieder wat wils. Ga je gang, grab a spoon and start diggin'</p>
 
-	<ul class="smaken">
-		<li>
-			<a class="fotossmaken">
-				<img alt="classics" src="./images/smaken/cookie-dough-landing.png" class="smaken"> 
-			</a>
-		</li>
-		<li>
-			<a class="fotossmaken">
-				<img alt="non-dairy" src="./images/smaken/peanut-butter-and-cookies-non-dairy-landing.png" class="smaken">
-			</a>
-		</li>
-		<li>
-			<a class="fotossmaken">
-				<img alt="topped" src="./images/smaken/topped-chocolate-caramel-cookie-dough-landing.png" class="smaken">
-			</a>
-		</li>
-		<li>
-			<a class="fotossmaken">
-				<img alt="Moo-phoria™ Light Ice Cream" src="./images/smaken/chocolate-cookie-dough-moophoria-landing.png" class="smaken">
-			</a>
-		</li>
-		<li>
-			<a class="fotossmaken">
-				<img alt="mini cups" src="./images/smaken/cone-together-mini-landing.png" class="smaken">
-			</a>
-		</li>
-		<li>
-			<a class="fotossmaken">
-				<img alt="scoop shop smaken" src="./images/smaken/americone-dream-bulk-landing-alt.png" class="smaken">
-			</a>
-		</li>
-		<li>
-			<a class="fotossmaken">
-				<img alt="geen lepen nodig" src="./images/smaken/on-the-dough-pintslice-detail.png" class="smaken">
-			</a>
-		</li>
-	</ul>
+			<input type="text" name="ijssmaken zoeken" class="zoeken" placeholder="ijssmaken zoeken">
 
-	<h3 class="h3smaken">
-		Onze favoriete smaak verhalen
-	</h3>
+			<h2 class="h2style">
+			Onze smaken:
+			</h2>
 
-	<ul class="smaakverhalen">
-		<li>
-			<a class="smaakverhalen">
-				<img alt="10 geniale ijshacks." src="./images/smaakverhalen/hacks_tile.jpg">
-			</a>
-		</li>
-		<li>
-			<a class="smaakverhalen">
-				<img alt="6 manieren om topped te eten." src="./images/smaakverhalen/BenJerry-topped-6manieren_200x200.jpg">
-			</a>
-		</li>
-		<li>
-			<a class="smaakverhalen">
-				<img alt="quiz" src="./images/smaakverhalen/Tumbnail_quiz_flavour_benjerry.jpg">
-			</a>
-		</li>
-		<li>
-			<a class="smaakverhalen">
-				<img alt="De 10 vreemdste smaken uit onze Flavor lab." src="./images/smaakverhalen/flavor-lab-thumb.jpg">
-			</a>
-		</li>
-		<li>
-			<a class="smaakverhalen">
-				<img alt="De 5 beste plekken om je pint te verstoppen." src="./images/smaakverhalen/tile.jpg">
-			</a>
-		</li>
-	</ul>
+			<ul class="smaken">
+				<li>
+					<a class="fotossmaken">
+					<img alt="classics" src="./images/smaken/cookie-dough-landing.png" class="smaken"> 
+						<p class="smaken">Classics</p>
+					</a>
+				</li>
+				<li>
+					<a class="fotossmaken">
+						<img alt="non-dairy" src="./images/smaken/peanut-butter-and-cookies-non-dairy-landing.png" class="smaken">
+						<p class="smaken">Non-Dairy</p>
+					</a>
+				</li>
+				<li>
+					<a class="fotossmaken">
+						<img alt="topped" src="./images/smaken/topped-chocolate-caramel-cookie-dough-landing.png" class="smaken">
+						<p class="smaken">Topped</p>
+					</a>
+				</li>
+				<li>
+					<a class="fotossmaken">
+						<img alt="Moo-phoria™ Light Ice Cream" src="./images/smaken/chocolate-cookie-dough-moophoria-landing.png" class="smaken">
+						<p class="smaken">Moo-phoria™ Light Ice Cream</p>
+					</a>
+				</li>
+				<li>
+					<a class="fotossmaken">
+						<img alt="mini cups" src="./images/smaken/cone-together-mini-landing.png" class="smaken">
+						<p class="smaken">Ben & Jerry's mini cups</p>
+					</a>
+				</li>
+				<li>
+					<a class="fotossmaken">
+						<img alt="scoop shop smaken" src="./images/smaken/americone-dream-bulk-landing-alt.png" class="smaken">
+						<p class="smaken">Scoop Shop smaken</p>
+					</a>
+				</li>
+				<li>
+					<a class="fotossmaken">
+						<img alt="geen lepen nodig" src="./images/smaken/on-the-dough-pintslice-detail.png" class="smaken">
+						<p class="smaken">Geen lepel nodig</p>
+					</a>
+				</li>
+			</ul>
 
+			<h3 class="h3smaken">
+			Onze favoriete smaak verhalen
+			</h3>
+
+			<ul class="smaakverhalen">
+				<li>
+					<a class="smaakverhalen">
+						<figure class="smaakverhalen">
+							<img alt="10 geniale ijshacks." src="./images/smaakverhalen/hacks_tile.jpg" class="smaakverhalen">
+							<figcaption>
+								<span>Krijg de primeur over onze nieuwe smaak lanceringen coming soon!</span>
+							</figcaption>
+						</figure>
+					</a>
+				</li>
+				<li>
+					<a class="smaakverhalen">
+						<figure class="smaakverhalen">
+							<img alt="6 manieren om topped te eten." src="./images/smaakverhalen/BenJerry-topped-6manieren_200x200.jpg" class="smaakverhalen">
+							<figcaption> 
+								<span>6 manieren om Topped te eten</span>
+							</figcaption>
+						</figure>
+					</a>
+				</li>
+				<li>
+					<a class="smaakverhalen">
+						<figure class="smaakverhalen">
+							<img alt="quiz" src="./images/smaakverhalen/Tumbnail_quiz_flavour_benjerry.jpg" class="smaakverhalen">
+							<figcaption>
+								<span>QUIZ: Welke 2016 smaak ben jij?</span>
+							</figcaption>
+						</figure>
+					</a>
+				</li>
+				<li>
+					<a class="smaakverhalen">
+						<figure class="smaakverhalen">
+							<img alt="De 10 vreemdste smaken uit onze Flavor lab." src="./images/smaakverhalen/flavor-lab-thumb.jpg" class="smaakverhalen">
+							<figcaption >
+								<span>De 10 vreemdste smaken uit onze Flavor Lab</span>
+							</figcaption>
+						</figure>
+					</a>
+				</li>
+				<li>
+					<a class="smaakverhalen">
+						<figure class="smaakverhalen">
+							<img alt="De 5 beste plekken om je pint te verstoppen." src="./images/smaakverhalen/tile.jpg" class="smaakverhalen">
+							<figcaption> 
+								<span>5 beste plekken om je pint te verstoppen!</span>
+							</figcaption>
+						</figure>
+					</a>
+				</li>
+			</ul>
+		</article>
+
+		<article class="tussenruimte2"></article>
+	</main>
+
+	<article class="footerheuvels">
+		<div class="heuvels">
+			<div class="heuvel1"></div>
+			<div class="heuvel2"></div>
+			<div class="heuvel3"></div>
+		</div>
+	</article>
+
+	<footer class="footer" role="contentinfo">
+		
+	</footer>
 </body>
 	
 </html>
