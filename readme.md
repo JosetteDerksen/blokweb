@@ -21,6 +21,11 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ![screenshot](images/screenshots/eindgesprek1.png)
 
+![screenshot](images/screenshots/eindgesprek2.png)
+
+![screenshot](images/screenshots/eindgesprek3.png)
+
+![screenshot](images/screenshots/eindgesprek.png)
 
 
 ## Voortgang 3 (week 6)
