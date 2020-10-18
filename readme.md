@@ -19,7 +19,7 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 **Screenshot(s):**
 -screenshot(s) van je eindresultaat-
 
-![screenshot](/images/screenshots/eindgesprek1.png)
+![screenshot](images/screenshots/eindgesprek1.png)
 
 
 
