@@ -17,8 +17,9 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 -Ik vond het lastig om te starten wat duidelijk te zien is in het resultaat tot nu toe. Ik het er veel te weinig tijd in gestoken en niet om hulp gevraagd. Wat goed ging is dat ik de voortgangsgesprekken heb gevolgd en ik wel weet dat ik meer tijd erin moet steken alleen nu moet ik het nog doen.-
 
 **Screenshot(s):**
-
 -screenshot(s) van je eindresultaat-
+
+![screenshot](/images/screenshots/eindgesprek1.png)
 
 
 
